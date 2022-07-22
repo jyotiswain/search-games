@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Steps to follow to run this project
+1. Download
+2. Commands to run:
+
+   1. `npm install` 
+   
+   2. `npm i axios mdb-react-ui-kit`
+   
+   3. `npm start`
+   
+   4. `npm run server`
+ 
+
+
+
+# Other reference
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
